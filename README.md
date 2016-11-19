@@ -19,3 +19,6 @@ chalupa
 banter wot
 checkers
 hkk
+
+
+vv
