@@ -1,13 +1,24 @@
 # setup
 GitHub Tutorial
 This is a test
-<<<<<<< HEAD
-
-Test branch commit!
+Master  change
+Test branch commit!test
 
 testing again collab
 
 3rd test
+
+
+test
+
+anotheraa
+sdasd
+
+<<<<<<< HEAD
+chalupa
+
+hkk
 =======
-Master  change
+banter wot
+checkers
 >>>>>>> origin/master

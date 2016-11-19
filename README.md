@@ -16,4 +16,6 @@ sdasd
 
 chalupa
 
+banter wot
+checkers
 hkk
